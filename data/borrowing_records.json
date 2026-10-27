@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "REC-0001",
+    "username": "S103",
+    "student_id": "S103",
+    "student_name": "Carlos Rivera",
+    "book_id": "B101",
+    "book_title": "Automate the Boring Stuff with Python",
+    "borrow_date": "2026-10-27 18:36:18",
+    "return_date": null,
+    "status": "active"
+  }
+]
