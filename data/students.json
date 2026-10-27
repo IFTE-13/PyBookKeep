@@ -1,0 +1,20 @@
+[
+  {
+    "id": "S101",
+    "name": "Alex Johnson",
+    "department": "Computer Science",
+    "contact": "alex.j@university.edu"
+  },
+  {
+    "id": "S102",
+    "name": "Brianna Smith",
+    "department": "Electrical Engineering",
+    "contact": "brianna.s@university.edu"
+  },
+  {
+    "id": "S103",
+    "name": "Carlos Rivera",
+    "department": "Information Technology",
+    "contact": "carlos.r@university.edu"
+  }
+]
