@@ -1,0 +1,82 @@
+[
+  {
+    "id": "B101",
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "category": "Programming",
+    "year": 2019,
+    "total_copies": 3,
+    "available_copies": 2,
+    "available": true
+  },
+  {
+    "id": "B102",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category": "Programming",
+    "year": 2023,
+    "total_copies": 2,
+    "available_copies": 2,
+    "available": true
+  },
+  {
+    "id": "B103",
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "category": "Advanced Python",
+    "year": 2022,
+    "total_copies": 3,
+    "available_copies": 3,
+    "available": true
+  },
+  {
+    "id": "B104",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "Computer Science",
+    "year": 2022,
+    "total_copies": 4,
+    "available_copies": 4,
+    "available": true
+  },
+  {
+    "id": "B105",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Software Engineering",
+    "year": 2008,
+    "total_copies": 3,
+    "available_copies": 3,
+    "available": true
+  },
+  {
+    "id": "B106",
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "category": "Software Engineering",
+    "year": 2020,
+    "total_copies": 2,
+    "available_copies": 2,
+    "available": true
+  },
+  {
+    "id": "B107",
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney",
+    "category": "Data Science",
+    "year": 2022,
+    "total_copies": 2,
+    "available_copies": 2,
+    "available": true
+  },
+  {
+    "id": "B108",
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "category": "Computer Science",
+    "year": 2018,
+    "total_copies": 3,
+    "available_copies": 3,
+    "available": true
+  }
+]
